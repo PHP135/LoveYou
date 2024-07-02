@@ -14,4 +14,4 @@ Suy:( <br> <br>**
 
 BTW ENJOY
 
-### MADE BY PETERHO
+### MADE BY PITOHO
