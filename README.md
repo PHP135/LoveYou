@@ -1,6 +1,6 @@
 # LoveYou
 
-
+ - Chạy File `LoveYou.exe`
  - Nhấn vào `<3` ở giữa thì sẽ chạy <br>
  - Thoát ra thì nhấn `esc`
 
