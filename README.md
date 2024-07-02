@@ -8,8 +8,8 @@ Thoát ra thì nhấn esc
 
 
 
-obssessed with her 
-Abcdxyzsad:(
-Suy:(
+obssessed with her <br>
+Abcdxyzsad:(<br>
+Suy:( <br> <br>
 
 BTW ENJOY
