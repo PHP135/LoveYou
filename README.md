@@ -1,11 +1,10 @@
 # LoveYou
+## How To Use?
+ - **Download -> Extract** the folder and run the LoveYou.exe file.
+ - When its turned on, click the `<3` in the middle of your screen
+ - `esc` for exit
 
- - Chạy File `LoveYou.exe`
- - Nhấn vào `<3` ở giữa thì sẽ chạy <br>
- - Thoát ra thì nhấn `esc`
-
-**P/S**: t làm cái này là để dành riêng cho một người nào đó but vì vài lý do nên không được nx:(( nên t pass lại cho ae
-
+**P/S**: i made this one for a special person, but for a few reasons I can't send it to her:((
 
 
 **Obssessed with her <br><br>
