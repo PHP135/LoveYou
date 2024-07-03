@@ -9,7 +9,7 @@
 
 **Obssessed with her <br><br>
 Abcdxyzsad:(<br><br>
-Suy:( <br> <br>**
+Emo:( <br> <br>**
 
 BTW ENJOY
 
