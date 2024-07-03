@@ -27,11 +27,16 @@ dick = """
 
 
 
-import pygame
-import threading
+
+
+
+
+
+
+import pygame, threading, time
 import tkinter as tk
 from tkinter import messagebox
-import time
+
 
 class Forsomeone(tk.Tk): # based on Tkinter
     def __init__(self):
