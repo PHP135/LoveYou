@@ -141,7 +141,6 @@ class Forsomeone(tk.Tk): # based on Tkinter
         self.lyrics_text.place(x=150, y=300)
         self.start_button = tk.Button(self, text="<3", command=self.play_Music, width=20, height=5, relief=tk.FLAT, bg="#CD9FCC", font=("Ebrima", 50, "bold"), activebackground="#CD9FCC", bd="0", highlightthickness=0)
         self.start_button.place(x=360, y=160)
-        self.canvas = tk.Canvas(self, width=1920, height=1080)
         self.bind("<Escape>", self.End_Kill)
 
 
