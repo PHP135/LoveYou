@@ -8,7 +8,6 @@
 
 **Obssessed with her <br><br>
 Abcdxyzsad:(<br><br>
-Emo:( <br> <br>**
 
 
 ### MADE BY PITOHO
