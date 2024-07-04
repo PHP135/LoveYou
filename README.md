@@ -1,5 +1,5 @@
 # LoveYou 💖💗💓
-## How To Use?
+## Usage
  - **Download -> Extract** the folder and run the LoveYou.exe file.
  - When its turned on, click the `<3` in the middle of your screen
 
