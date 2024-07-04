@@ -10,6 +10,5 @@
 Abcdxyzsad:(<br><br>
 Emo:( <br> <br>**
 
-BTW ENJOY
 
 ### MADE BY PITOHO
