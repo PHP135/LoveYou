@@ -2,7 +2,7 @@
 
 # LoveYou 💖💗💓
 
-- **FK ANTIVIRUS. I dont know why it got detected as a threat by AV fuck. Temporarily disable AV (real-time protection, or third-party AV). ngl, my program is absolutely safe.**
+- **FK ANTIVIRUS. I dont know why it has been detected as a threat by AV fuck. Temporarily disable AV (real-time protection, or third-party AV). ngl, my program is absolutely safe.**
 
 ## Usage
 
